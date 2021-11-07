@@ -1,0 +1,22 @@
+content:
+- How to read a traceback
+- Regexps in Python
+- Class vs instance
+- How to read the documentation
+- Requests  retrieving data
+- Identity testing
+- Lambda functions
+- Escaping in regexps
+- Regexp sets and ranges
+- Shorthands
+- Regexp quantifiers
+- List comprehension
+- While loop
+- Default arguments
+- Map and filter
+- Tokenization
+- Reading files
+- Json module
+- Defaultdict and Counter
+- Testing user input
+- Time module

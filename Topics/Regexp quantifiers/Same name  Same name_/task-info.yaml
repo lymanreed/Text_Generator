@@ -1,0 +1,18 @@
+type: code
+custom_name: Same name? Same name!
+files:
+- name: main.py
+  visible: true
+  text: |-
+    import re
+
+
+    # put your regex in the variable template
+    template = ""
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/15149#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Mon, 25 Oct 2021 09:21:07 UTC
+record: -1
